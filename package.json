@@ -1,8 +1,8 @@
 {
-    "name": "massively",
-    "description": "This is Massively, a text-heavy, article-oriented theme for Ghost.",
-    "demo": "https://massively.ghost.io",
-    "version": "1.0.3",
+    "name": "krilalive",
+    "description": "krilalive",
+    "demo": "https://krilalive.de",
+    "version": "1",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"

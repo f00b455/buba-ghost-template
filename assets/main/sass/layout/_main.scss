@@ -29,16 +29,16 @@
 		}
 
 		> .post {
-			@include padding((_size(padding) * 4), (_size(padding) * 4));
+			@include padding((_size(padding) * 1), (_size(padding) * 1));
 
 			header {
 				&.major {
 					> .date {
-						margin-top: -2rem;
+						margin-top: 0rem;
 					}
 
 					> h1, h2 {
-						font-size: 4rem;
+						font-size: 2rem;
 						line-height: 1.1;
 						margin: 0 0 _size(element-margin) 0;
 					}
@@ -50,7 +50,7 @@
 			}
 
 			@include breakpoint('<=large') {
-				@include padding((_size(padding) * 3), (_size(padding) * 2));
+				@include padding((_size(padding) * 1), (_size(padding) * 2));
 			}
 
 			@include breakpoint('<=small') {
