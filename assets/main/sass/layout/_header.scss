@@ -48,7 +48,7 @@
 		}
 
 		@include breakpoint('<=medium') {
-			height: 0rem;
+			height: 14rem;
 			padding-bottom: (_size(padding) * 2);
 		}
 
