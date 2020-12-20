@@ -2,7 +2,7 @@
     "name": "krilalive",
     "description": "krilalive",
     "demo": "https://krilalive.de",
-    "version": "1",
+    "version": "2",
     "engines": {
         "ghost": ">=3.0.0",
         "ghost-api": "v3"
